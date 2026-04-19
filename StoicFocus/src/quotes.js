@@ -1,0 +1,4 @@
+export const stoicQuotes = [
+  "You have power over your mind - not outside events. Realize this, and you will find strength. - Marcus Aurelius",
+  "We suffer more often in imagination than in reality. - Seneca"
+];
