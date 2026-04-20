@@ -36,6 +36,8 @@ function Timer() {
       <div style={{ display: 'flex', gap: '16px', marginBottom: '24px' }}>
         <PlayButton />
         <PauseButton />
+        <ResetButton />
+        
       </div>
 
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '18px' }}>
