@@ -1,16 +1,24 @@
 # StoicFocus 🏛️
 
-A distraction-free Pomodoro timer designed for deep work, inspired by Stoic philosophy. It’s not just about managing time; it's about managing your mindset.
+A simple, distraction-free Pomodoro timer I built to help with deep work. It mixes time management with some of my favorite Stoic quotes to keep the right mindset during breaks. 
+
+## HOSTING:https://stoicfocus-pomodoro-for-stoics.vercel.app/
+
+## ⚙️ What it does
+* **Visual Timer:** Just a clean, circular countdown so you know exactly how much time you have left to focus.
+* **Stoic Quotes:** Shows quotes from Marcus Aurelius and Seneca when you're on a break to keep you grounded.
+* **Simple Code:** Built using standard React hooks (`useState`, `useEffect`) and broken down into small, reusable components.
 
 ## 🚀 Tech Stack
-* **Core:** React.js (Bootstrapped with Vite)
-* **UI/Components:** `react-circular-progressbar` for the visual timer, Heroicons for SVG component composition.
-* **State Management:** Native React Hooks (`useState`, `useEffect`)
+* **Core:** React.js & Vite
+* **UI:** `react-circular-progressbar` for the timer ring and Heroicons for the buttons.
 
-## ⚙️ Features
-* **Visual Timer:** A clean, circular countdown interface indicating current focus or break states.
-* **Philosophical Grounding:** Dynamically renders curated quotes from Stoic thinkers like Marcus Aurelius and Seneca during break periods to maintain intentionality.
-* **Component-Driven UI:** Modular architecture using reusable, stateless button components.
+## 🤖 AI Declaration (How I built this)
+I am 16 and still learning the MERN stack, so I used AI as a tutor and assistant for this project. Here is exactly how I used it:
+* **The Design:** I used AI to help me figure out the CSS layout and get the color scheme looking clean(copied paste only some animations)
+* **The Quotes:** I had AI help me fetch and format the massive list of Stoic quotes so I didn't have to copy-paste them all manually.
+* **Debugging:** Whenever I got completely stuck (especially with some React state bugs or `useEffect` loops), I asked AI to explain what I was doing wrong.
+* **My Manual Work:** I didn't just auto-generate this app. I manually wired up the components, wrote the core timer countdown logic, set up the Vite environment, and pieced the actual app together myself. 
 
 ## 🛠️ Local Development
 
