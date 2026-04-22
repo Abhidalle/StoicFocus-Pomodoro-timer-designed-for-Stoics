@@ -18,6 +18,7 @@ I am 16 and still learning the MERN stack, so I used AI as a tutor and assistant
 * **The Design:** I used AI to help me figure out the CSS layout and get the color scheme looking clean(copied paste only some animations)
 * **The Quotes:** I had AI help me fetch and format the massive list of Stoic quotes so I didn't have to copy-paste them all manually.
 * **Debugging:** Whenever I got completely stuck (especially with some React state bugs or `useEffect` loops), I asked AI to explain what I was doing wrong.
+* **Others:** Also for providing Structure to the read me file that were made by me.
 * **My Manual Work:** I didn't just auto-generate this app. I manually wired up the components, wrote the core timer countdown logic, set up the Vite environment, and pieced the actual app together myself. 
 
 ## 🛠️ Local Development
