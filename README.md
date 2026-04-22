@@ -27,3 +27,7 @@ To run StoicFocus on your local machine or inside a GitHub Codespace:
 1. **Install dependencies:**
    ```bash
    npm install
+
+
+https://github.com/user-attachments/assets/a4945423-7b88-4a89-8367-9cf840c217aa
+
